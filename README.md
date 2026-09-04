@@ -212,9 +212,17 @@ Consolidated Score: **71%**
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ws21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="William's GitHub stats" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ws21&theme=github_dark" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws21&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="William's top languages" />
+<br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ws21&theme=github_dark" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ws21&theme=github_dark" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=ws21&theme=dark&hide_border=true" />
 
 </div>
 
