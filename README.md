@@ -195,7 +195,7 @@ SRM
 
 **B.Sc. Computer Science**  
 Loyola College, Chennai  
-**CGPA: 7.9 / 10**
+**CGPA: 8 / 10**
 
 </td>
 </tr>
